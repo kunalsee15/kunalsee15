@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kunalsee15
 - 👀 I’m interested in learning tech
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on social platform 
 - 📫 Email - kunalsee7007@gmail.com
